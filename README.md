@@ -16,8 +16,8 @@ You can change the search engine used by the search overlay by updating the url 
 
 Examples:
 
-- DuckDuckGo: `https://duckduckgo.com/?q=`
-- Bing: `https://www.bing.com/search?q=`
+- DuckDuckGo: https://duckduckgo.com/?q=
+- Bing: https://www.bing.com/search?q=
 
 ### Customize Styling
 
